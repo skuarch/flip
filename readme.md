@@ -1,2 +1,5 @@
-npm start to star the app
-npm run test to run all tests
+# Flip
+
+  - npm i
+  - npm test
+  - npm start
